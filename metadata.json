@@ -1,0 +1,12 @@
+{
+  "title": "Keyboard Cultivation",
+  "description": "In the age of declining sects and corrupted scriptures, few cultivators still pursue the Keyboard Dao. \nThis mod replaces Glyphica ordinary terminology with language befitting those who walk the path of the Heavenly Keyboard, where every keystroke forms a glyph and every glyph becomes a technique. Mortal words have been refined into titles worthy of manuals found in forgotten jade libraries",
+  "descriptionLanguage": "english",
+  "visible": true,
+  "tags": [
+    "wordlist",
+    "paragraphs",
+    "main"
+  ],
+  "baseLanguage": "english"
+}
