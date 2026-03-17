@@ -1,46 +1,46 @@
 {
-	"mod": {
-		"Spectre": [
-			"s",
-			"c",
-			"p"
-		],
-		"Hunter": [
-			"b",
-			"d",
-			"a"
-		],
-		"Tesla": [
-			"f",
-			"t",
-			"r",
-			"w"
-		],
-		"Blade": [
-			"h",
-			"m",
-			"g",
-			"l"
-		],
-		"Minefield": [
-			"v",
-			"i",
-			"j",
-			"o"
-		],
-		"Orbiter": [
-			"k",
-			"q",
-			"n",
-			"u"
-		],
-		"Extra_1": [
-			"x",
-			"z"
-		],
-		"Extra_2": [
-			"b",
-			"y"
-		]
-	}
+    "mod": {
+        "Spectre": [
+            "c",
+            "p",
+            "s"
+        ],
+        "Hunter": [
+            "b",
+            "d",
+            "a"
+        ],
+        "Blade": [
+            "h",
+            "m",
+            "g",
+            "l"
+        ],
+        "Minefield": [
+            "v",
+            "i",
+            "j",
+            "o"
+        ],
+        "Orbiter": [
+            "k",
+            "q",
+            "n",
+            "u"
+        ],
+        "Tesla": [
+            "f",
+            "t",
+            "r",
+            "w"
+        ],
+        "Extra_1": [
+            "x",
+            "z"
+        ],
+        "Extra_2": [
+            "b",
+            "y"
+        ]
+    }
 }

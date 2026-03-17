@@ -1,0 +1,7 @@
+{
+  "files.associations": {
+    "*.parahraphs": "json",
+    "*.triggers": "json",
+    "*.wordlist": "json"
+  }
+}
