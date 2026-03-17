@@ -6,32 +6,32 @@
             "s"
         ],
         "Hunter": [
+            "a",
             "b",
-            "d",
-            "a"
+            "d"
         ],
         "Blade": [
-            "h",
-            "m",
             "g",
-            "l"
+            "h",
+            "l",
+            "m"
         ],
         "Minefield": [
-            "v",
             "i",
             "j",
-            "o"
+            "o",
+            "v"
         ],
         "Orbiter": [
             "k",
-            "q",
             "n",
+            "q",
             "u"
         ],
         "Tesla": [
             "f",
-            "t",
             "r",
+            "t",
             "w"
         ],
         "Extra_1": [

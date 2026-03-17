@@ -1,7 +1,7 @@
 {
   "files.associations": {
-    "*.parahraphs": "json",
-    "*.triggers": "json",
-    "*.wordlist": "json"
+    "*.paragraphs": "jsonc",
+    "*.triggers": "jsonc",
+    "*.wordlist": "jsonc"
   }
 }
